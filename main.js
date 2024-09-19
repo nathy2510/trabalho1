@@ -1,4 +1,15 @@
-function criaCartão ( categoria, pergunta,resposta) {
+function criaCartão ( categoria, pergunta, resposta){
     let container = document.getElementById('container');
-    
+let cartao = document. createElement('article');
+cartao.className = 'cartao'
+cartao. innerHTML =`<divclass= "conteudo-cartao"> 
+    <h3>${categoria}</h3>
+    <divclass="pergunta-cartao">
+     <p>${pergunta}</p>
+     </div>
+    <div class="resposta-cartao">
+        <p>${resposta}</p>
+    </div>
+</div>`
+
 }
