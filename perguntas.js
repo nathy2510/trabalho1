@@ -54,41 +54,41 @@ criaCartão(
     'Promover a recuperação econômica da Europa pós-Segunda Guerra, evitando o avanço do comunismo, através de ajuda financeira dos Estados Unidos aos países europeus')
     
     criaCartão(
-    História,
-    O que marcou o início do Período Pré-Homérico?’,
-    O início do Período Pré-Homérico foi marcado pela chegada dos povos indo-europeus na Península Balcânica, como os aqueus e jônios’)
+      'História  ',
+     ' O que marcou o início do Período Pré-Homérico?  ',
+      'O início do Período Pré-Homérico foi marcado pela chegada dos povos indo-europeus na Península Balcânica, como os aqueus e jônios  ')
     
     criaCartão(
-    ‘História’,
-    ‘Qual era a base da sociedade romana?’,
-    ‘A sociedade romana era marcada pela divisão entre patrícios, que eram os nobres e proprietários de terras, e plebeus, que eram os camponeses, artesãos e comerciantes’)
+      'História',
+      'Qual era a base da sociedade romana?  ',
+      'A sociedade romana era marcada pela divisão entre patrícios, que eram os nobres e proprietários de terras, e plebeus, que eram os camponeses, artesãos e comerciantes  ')
     
     criaCartão(
-    ‘História’,
-    ‘Qual era a base da sociedade romana?’,
-    ‘A sociedade romana era marcada pela divisão entre patrícios, que eram os nobres e proprietários de terras, e plebeus, que eram os camponeses, artesãos e comerciantes’)
+      'História',
+      'Qual era a base da sociedade romana? ',
+    'A sociedade romana era marcada pela divisão entre patrícios, que eram os nobres e proprietários de terras, e plebeus, que eram os camponeses, artesãos e comerciantes')
     
     criaCartão(
-    ‘História’,
-    ‘Quais eram os principais objetivos do
-    Fascismo italiano?’,
-    ‘Os principais objetivos eram a criação de um Estado forte e centralizado, a promoção do nacionalismo, o expansionismo territorial e a eliminação de qualquer oposição política’)
+    'História',
+    'Quais eram os principais objetivos do Fascismo italiano?',
+   
+    'Os principais objetivos eram a criação de um Estado forte e centralizado, a promoção do nacionalismo, o expansionismo territorial e a eliminação de qualquer oposição política')
     
     criaCartão(
-    ‘Química’,
-    ‘Quais elementos pertencem ao grupo dos halogênios?’,
-    ‘Os elementos do grupo dos halogênios são flúor, cloro, bromo, iodo e astato.
-    Esses elementos são altamente reativos e formam sais quando reagem com metais’)
+    'Química',
+    'Quais elementos pertencem ao grupo dos halogênios?',
+    'Os elementos do grupo dos halogênios são flúor, cloro, bromo, iodo e astato.Esses elementos são altamente reativos e formam sais quando reagem com metais')
+    
     
     criaCartão(
-    ‘Química’,
-    ‘O que se entende por velocidade de reação em cinética química?’,
-    ‘É a medida da rapidez com que os reagentes são consumidos ou os produtos são formados. Depende de fatores como concentração, temperatura e presença de catalisadores’)
+    'Química',
+    'O que se entende por velocidade de reação em cinética química?',
+    'É a medida da rapidez com que os reagentes são consumidos ou os produtos são formados. Depende de fatores como concentração, temperatura e presença de catalisadores')
     
     criaCartão(
-    ‘Química’,
-    ‘Como a concentração dos reagentes afeta a velocidade de uma reação?’,
-    ‘Um aumento na concentração dos reagentes geralmente aumenta a velocidade da reação. Isso ocorre porque há mais moléculas disponíveis para colidir e reagir, aumentando a frequência de colisões efetivas ')
+    'Química',
+    'Como a concentração dos reagentes afeta a velocidade de uma reação?',
+    'Um aumento na concentração dos reagentes geralmente aumenta a velocidade da reação. Isso ocorre porque há mais moléculas disponíveis para colidir e reagir, aumentando a frequência de colisões efetivas ')
     
     criaCartão(
      'Químicav ',
