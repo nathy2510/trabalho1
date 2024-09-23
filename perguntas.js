@@ -38,14 +38,12 @@ criaCartão(
     
     criaCartão(
     'Português',
-    'Quando ocorreu o Pré-Modernismo no Brasil?, 
-   
- 
+    'Quando ocorreu o Pré-Modernismo no Brasil?', 
     'O Pré-Modernismo no Brasil ocorreu no início do século XX, aproximadamente entre 1902 e 1922, período marcado por grandes transformações sociais, econômicas e políticas, como a urbanização e industrialização')
     
     criaCartão(
     'Geografia',
-    'Como a Doutrina Truman influenciou a política mundial? '
+    'Como a Doutrina Truman influenciou a política mundial? ',
     'Estabeleceu o comprometimento dos EUA em conter o avanço do comunismo, oferecendo apoio econômico e militar a países ameaçados pela influência soviética')
     
     criaCartão(
@@ -101,7 +99,7 @@ criaCartão(
      'A reciclagem de metais reduz a necessidade de extração de minerais, diminuindo o impacto ambiental da mineração. Além disso, economiza energia e reduz a emissão de gases poluentes, promovendo um ciclo de uso mais sustentável e menos agressivo ao meio ambiente')
     
     criaCartão(
-     'Química '
+     'Química ',
      'Como identificar isômeros de cadeia? ',
     'Para identificar isômeros de cadeia, analise a estrutura da cadeia carbônica principal. Verifique se há variações como cadeias lineares,ramificadas, ou se é aberta ou fechada, ou se a cadeia é homogênea ou heterogênea, mantendo a mesma fórmula molecular')
     
