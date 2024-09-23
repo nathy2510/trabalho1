@@ -5,6 +5,7 @@
    --branco: white;
    --preto: black;
    --destaque:rgb(82, 209, 150);
+}
 body{
     background-color: var(--fundo);
 }
