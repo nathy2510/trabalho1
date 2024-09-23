@@ -42,7 +42,7 @@ footer {
 .conteudo-cartao h3{
     border: 1px solid var(--destaque);
     position: absolute;
-    padding: 0,5rem;
+    padding:0,5rem;
     
 }
 .conteudo-cartao p{
