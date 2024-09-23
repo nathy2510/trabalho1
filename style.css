@@ -1,6 +1,6 @@
 :root {
     --fundo: rgb(86, 136, 132);
-    --cartao-frente: rgb(0, 89, 255);
+    --cartao-frente: rgb(73, 189, 150);
     --cartao-verso: rgb(238, 255, 0);
     --branco: white;
     --preto: black;
@@ -36,6 +36,6 @@ footer {
 .cartao {
     margin: 1rem;
     flex-grow: 1;
-    flex-basis: calc(33%-6rem);
+    flex-basis: calc(33% -6rem);
 
 }
