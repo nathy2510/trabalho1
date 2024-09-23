@@ -89,7 +89,7 @@ criaCartão(
     'Um aumento na concentração dos reagentes geralmente aumenta a velocidade da reação. Isso ocorre porque há mais moléculas disponíveis para colidir e reagir, aumentando a frequência de colisões efetivas ')
     
     criaCartão(
-     'QuímicaG',
+     'Química',
      'Como a constante de equilíbrio (K) pode ser afetada por mudanças na temperatura? ',
      'A constante de equilíbrio (K) varia com a temperatura porque a energia térmica influencia a velocidade das reações diretas e inversas. Reações endotérmicas aumentam K com o aumento da temperatura, enquanto reações exotérmicas diminuem K ')
     
