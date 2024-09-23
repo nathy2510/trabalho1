@@ -39,3 +39,6 @@ footer {
     flex-basis: calc(33% - 6rem);
 
 }
+.conteudo-cartao h3 {
+    border: 1px solid var(--destaque);
+}
