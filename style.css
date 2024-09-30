@@ -63,7 +63,7 @@ footer {
     padding: 4rem;
 }
 
-.resposta-cartão p {
+.resposta-cartao p {
     color: var(--cartao-verso);
     font-weight: 700;
 }
@@ -81,7 +81,7 @@ footer {
     box-sizing: border-box;
 }
 
-.resposta-cartão {
+.resposta-cartao {
     transform: rotateY(180deg);
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
