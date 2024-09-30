@@ -1,10 +1,10 @@
 :root {
     --fundo: rgb(80, 145, 124);
-    --cartao-frente: rgb(213, 243, 237);
+    --cartao-frente: rgb(108, 212, 192);
     --cartao-verso: rgb(127, 167, 147);
     --branco: white;
     --preto: black;
-    --destaque: rgb(93, 161, 130);
+    --destaque: rgb(240, 252, 246);
 }
 
 body {
