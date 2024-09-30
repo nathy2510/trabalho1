@@ -36,50 +36,53 @@ footer {
 .cartao {
     margin: 1rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 6rem);}
+    flex-basis: calc(33% - 6rem);
+}
 
-    .conteudo-cartao{
-        background-color: var(--cartao-frente);
-        text-align: center;
-        height: 100%;
-        transform-style: preserve-3d;
-        transition: transform 300ms ease-in-out;
-    }
-
-
-
+.conteudo-cartao {
+    background-color: var(--cartao-frente);
+    text-align: center;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
+}
 
 
-.conteudo-cartao h3{
+.conteudo-cartao h3 {
     border: 1px solid var(--destaque);
     position: absolute;
-    padding:0.5rem;
-    margin:0.6rem;
+    padding: 0.5rem;
+    margin: 0.6rem;
     backface-visibility: hidden;
     border-radius: 0.5rem;
-    
+
 }
-.conteudo-cartao p{
+
+.conteudo-cartao p {
     margin-top: 1rem;
     padding: 4rem;
 }
-.resposta-cartão p{
+
+.resposta-cartão p {
     color: var(--cartao-verso);
     font-weight: 700;
 }
-.cartao.active.conteudo-cartao{
+
+.cartao.active.conteudo-cartao {
     transform: rotateY(180deg);
 }
-.pergunta-cartao,
-.resposta-cartão{
-    backface-visibility: hidden;
-position: absolute;
-height: 100%;
-width: 100%;
-box-sizing: border-box;}
 
-.resposta-cartão{
+.pergunta-cartao,
+.resposta-cartão {
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.resposta-cartão {
     transform: rotateY(180deg);
-    background-color:  var(--destaque);
+    background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
 }
