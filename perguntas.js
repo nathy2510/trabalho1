@@ -69,7 +69,6 @@ criaCartão(
     criaCartão(
     'História',
     'Quais eram os principais objetivos do Fascismo italiano?',
-   
     'Os principais objetivos eram a criação de um Estado forte e centralizado, a promoção do nacionalismo, o expansionismo territorial e a eliminação de qualquer oposição política')
     
     criaCartão(
