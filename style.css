@@ -61,7 +61,8 @@ footer {
 .conteudo-cartao p {
     margin-top: 1rem;
     padding: 4rem;
-
+margin-top: 4rem;
+font-size: 1.4vw;
 }
 
 .resposta-cartao p {
