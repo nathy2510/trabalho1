@@ -4,7 +4,7 @@
     --cartao-verso: rgb(127, 167, 147);
     --branco: white;
     --preto: black;
-    --destaque: rgb(7, 196, 101);
+    --destaque: rgb(240, 252, 246);
 }
 
 body {
@@ -59,7 +59,7 @@ footer {
 }
 
 .pergunta-cartao p {
-
+    margin-top: 1rem;
     padding: 4rem;
 margin-top: 4rem;
 font-size: 1.4vw;
@@ -67,8 +67,8 @@ font-size: 1.4vw;
 
 .resposta-cartao p {
     color: var(--cartao-verso);
-    font-size: 20px;
     font-weight: 700;
+    font-size: 1.4vw;
 }
 
 .cartao.active .conteudo-cartao {
@@ -76,7 +76,7 @@ font-size: 1.4vw;
 }
 
 .pergunta-cartao,
-.resposta-cartao {
+.resposta-cartão {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
