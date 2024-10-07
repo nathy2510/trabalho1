@@ -67,6 +67,7 @@ font-size: 1.4vw;
 
 .resposta-cartao p {
     color: var(--cartao-verso);
+    font-size: 20px;
     font-weight: 700;
 }
 
