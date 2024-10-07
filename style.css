@@ -58,8 +58,8 @@ footer {
 
 }
 
-.conteudo-cartao p {
-    margin-top: 1rem;
+.pergunta-cartao p {
+
     padding: 4rem;
 margin-top: 4rem;
 font-size: 1.4vw;
@@ -75,7 +75,7 @@ font-size: 1.4vw;
 }
 
 .pergunta-cartao,
-.resposta-cartão {
+.resposta-cartao {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
