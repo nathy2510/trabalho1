@@ -20,10 +20,10 @@ criaCartão(
 
     
     criaCartão(
-    'Biologia',
-    'Por que a deficiência de vitamina D pode causar problemas ósseos?',
-    'A vitamina D é crucial para a absorção de cálcio e fósforo no intestino. Sem ela, os ossos podem se tornar frágeis e suscetíveis a doenças como raquitismo e osteoporose')
-    
+      'Biologia',
+      'Explique o processo de filtração glomerular nos rins',
+      'A filtração glomerular ocorre nos glomérulos. Sangue entra nos capilares glomerulares, onde a pressão força água e solutos para dentro da cápsula de Bowman, formando o filtrado que será processado nos túbulos renais')
+  
     criaCartão(
     'Português',
     'O que caracteriza o Quinhentismo no Brasil?',
